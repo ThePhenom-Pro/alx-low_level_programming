@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <unistd.h>
 /**
  * main - writes a string
  * Return: 1 if it runs with an error
