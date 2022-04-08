@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <stdlib.h>
 /**
  * main - print prints all possible different combinations of two digits
  * Return: 0 if the program executes appropriately
