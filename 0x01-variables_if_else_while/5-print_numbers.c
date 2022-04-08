@@ -1,4 +1,8 @@
 #include <stdio.h>
+/**
+ * main - print 0 to 9
+ * Return: 0 if the program is successful
+ */
 int main(void)
 {
 int n;

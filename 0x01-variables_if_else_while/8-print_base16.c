@@ -1,4 +1,8 @@
 #include <stdio.h>
+/**
+ * main - print the numbers of base 16
+ * Return: 0 if the program is successful
+ */
 int main(void)
 {
 char n;

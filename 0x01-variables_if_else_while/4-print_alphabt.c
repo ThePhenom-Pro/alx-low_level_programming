@@ -1,4 +1,8 @@
 #include <stdio.h>
+/**
+ * main - print the alphabet twice
+ * Return: 0 if the program is successful
+ */
 int main(void)
 {
 char ch;
