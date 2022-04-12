@@ -1,8 +1,6 @@
 #include "main.h"
 /**
  * print_alphabet_x10 - prints the alphabet, 10 times
- * @c: character to be checked
- *
  * Return: no return
  */
 void print_alphabet_x10(void)
