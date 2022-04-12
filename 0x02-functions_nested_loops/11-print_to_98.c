@@ -1,6 +1,7 @@
 #include <stdio.h>
 /**
  * print_to_98 - prints all natural number from n to 98
+ * @n: an integer
  * Return: No return value
  */
 void print_to_98(int n)
