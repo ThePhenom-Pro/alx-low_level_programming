@@ -1,0 +1,1 @@
+this directory contains the projects related to more singly linked lists
